@@ -1,0 +1,76 @@
+Jan 15, 2022 2:35:37 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler start
+INFO: Logger started.
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new database has been created.
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: The driver is SQLiteJDBC
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: A new record has been added to the database
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: Database tables have been created
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: Runtime config data has been loaded
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File MainLoop.wav was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File BlipSelect.wav was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File Hit.wav was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File ProjectileCreated.wav was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: Runtime config data has been loaded
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File Boundary.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File Goal.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File Player.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File ShootingEnemy.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File TrackingEnemy.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File BackgroundTile.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File EnemyProjectile.png was loaded. 
+Jan 15, 2022 2:35:38 PM com.mygdx.bpaadventuregame.GameHelpers.EventLogHandler log
+INFO: File HealthHeart.png was loaded. 

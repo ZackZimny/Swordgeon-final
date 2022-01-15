@@ -1,0 +1,30 @@
+Jan 15, 2022 3:25:36 PM com.mygdx.game.GameHelpers.CrashLogHandler start
+INFO: Logger started.
+Jan 15, 2022 3:25:37 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: There has been a problem connecting to the database: 
+
+Jan 15, 2022 3:25:37 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: No suitable driver found for jdbc:sqlite:swordgeon.db
+Jan 15, 2022 3:30:08 PM com.mygdx.game.GameHelpers.CrashLogHandler start
+INFO: Logger started.
+Jan 15, 2022 3:30:10 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: There has been a problem connecting to the database: 
+
+Jan 15, 2022 3:30:10 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: No suitable driver found for jdbc:sqlite:swordgeon.db
+Jan 15, 2022 3:31:58 PM com.mygdx.game.GameHelpers.CrashLogHandler start
+INFO: Logger started.
+Jan 15, 2022 3:31:59 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: There has been a problem connecting to the database: 
+
+Jan 15, 2022 3:31:59 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: No suitable driver found for jdbc:sqlite:swordgeon.db
+Jan 15, 2022 3:34:38 PM com.mygdx.game.GameHelpers.CrashLogHandler start
+INFO: Logger started.
+Jan 15, 2022 3:34:39 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: There has been a problem connecting to the database: 
+
+Jan 15, 2022 3:34:39 PM com.mygdx.game.GameHelpers.CrashLogHandler logSevere
+SEVERE: No suitable driver found for jdbc:sqlite:swordgeon.db
+Jan 15, 2022 3:42:42 PM com.mygdx.game.GameHelpers.CrashLogHandler start
+INFO: Logger started.
