@@ -1,0 +1,58 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\zzimn\OneDrive\Desktop\Swordgeon\Swordgeon.exe --l4j-debug
+WOW64:		yes
+Create mutex:	SwordgeonMutex
+Working dir:	C:\Users\zzimn\OneDrive\Desktop\Swordgeon\.
+Java min ver:	1.008.000_111
+Java max ver:	1.009.000
+Bundled JRE(s):	1.8,0_111
+Check launcher:	C:\Users\zzimn\OneDrive\Desktop\Swordgeon\1.8,0_111\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_311
+Check launcher:	C:\Program Files\Java\jre1.8.0_311\bin\javaw.exe (OK)
+Match:		1.008.000_311
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_311
+Ignore:		1.008.000_311
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_311 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_311\bin\javaw.exe
+Launcher args:	-jar "C:\Users\zzimn\OneDrive\Desktop\Swordgeon\Swordgeon.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\zzimn\OneDrive\Desktop\Swordgeon\Swordgeon.exe --l4j-debug
+WOW64:		yes
+Create mutex:	SwordgeonMutex
+Working dir:	C:\Users\zzimn\OneDrive\Desktop\Swordgeon\.
+Java min ver:	1.008.000_111
+Java max ver:	1.009.000
+Bundled JRE(s):	1.8,0_111
+Check launcher:	C:\Users\zzimn\OneDrive\Desktop\Swordgeon\1.8,0_111\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_311
+Check launcher:	C:\Program Files\Java\jre1.8.0_311\bin\javaw.exe (OK)
+Match:		1.008.000_311
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_311
+Ignore:		1.008.000_311
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_311 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_311\bin\javaw.exe
+Launcher args:	-jar "C:\Users\zzimn\OneDrive\Desktop\Swordgeon\Swordgeon.exe"
+Args length:	62/32768 chars
+Exit code:	0
