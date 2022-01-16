@@ -14,6 +14,7 @@ public class Swordgeon extends ApplicationAdapter {
 	SpriteBatch spriteBatch;
 	ScreenHandler screenHandler;
 	//Runs before the game is created.
+	//Try catch blocks added for crash handling
 	@Override
 	public void create () {
 		try {
